@@ -32,12 +32,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalzio&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" align="left" alt="My Top Languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=sanalzio&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" align="left" alt="My GitHub Stats" />
 </div>
-  
-
 <br/>
-
 <div align="center">
-            <img src="https://komarev.com/ghpvc/?username=sanalzio&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sanalzio&&style=flat-square" align="center" />
+</div>
+<div align="center">
             <a href="https://www.buymeacoffee.com/sanalzio" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
