@@ -27,7 +27,7 @@
   <a href="https://en.wikipedia.org/wiki/Cmd.exe" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Command_prompt_icon_%28windows%29.png" alt="CMD" height="40" /></a>
   <a href="https://en.wikipedia.org/wiki/VBScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/VBSccript_file_format_icon.png" alt="VBScript" height="40" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-  <a href="https://microbit.org/" target="_blank"><svg viewBox="0 0 23.79 13.29" width="40" height="40.406"><path stroke-opacity="0" fill="#00c800" fill-rule="evenodd" d="M6.75 10.59a1.42 1.42 0 000 2.83 1.42 1.42 0 100-2.83" transform="translate(-.11 -5.35)" data-darkreader-inline-fill="" style="--darkreader-inline-fill: #62f654;"></path><path stroke-opacity="0" fill="#00c800" fill-rule="evenodd" d="M17.23 15.81H6.7a3.81 3.81 0 01.06-7.62h10.47a3.81 3.81 0 010 7.62zm.06-10.45H6.71A6.5 6.5 0 00.11 12a6.48 6.48 0 006.5 6.63h10.62A6.5 6.5 0 0023.89 12a6.5 6.5 0 00-6.6-6.64z" transform="translate(-.11 -5.35)" data-darkreader-inline-fill="" style="--darkreader-inline-fill: #62f654;"></path><path stroke-opacity="0" fill="#00c800" fill-rule="evenodd" d="M17.23 13.41a1.41 1.41 0 00.08-2.82h-.08a1.41 1.41 0 000 2.82" transform="translate(-.11 -5.35)" data-darkreader-inline-fill="" style="--darkreader-inline-fill: #62f654;"></path></svg></a>
+  <a href="https://microbit.org/" target="_blank"><img src="mic.svg" alt="MicroBit" height="40" /></a></a>
 </p>
 
 <br/>  
