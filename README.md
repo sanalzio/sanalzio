@@ -1,7 +1,7 @@
 ### <div align="center">Hello. I'm Sanalzio. I'm a student freelance developer.</div>  
   
 
-- 🔭 I’m <span style="color: green;">currently</span> working on **Python** 🐍  
+- 🔭 I’m currently working on **Python** 🐍  
   
 
 - 🌱 I’m currently learning **HTML/CSS/JS** 🌐  
