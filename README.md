@@ -1,7 +1,7 @@
 ### <div align="center">Hello. I'm Sanalzio. I'm a student freelance developer.</div>  
   
 
-- 🔭 I’m currently working on **Python** 🐍  
+- 🔭 I’m currently working on **<span style="color: green;">Python</span>** 🐍  
   
 
 - 🌱 I’m currently learning **HTML/CSS/JS** 🌐  
@@ -11,7 +11,7 @@
 
 
 ## My Skill Set  
-<p align="center" style="color: green;"> 
+<p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
