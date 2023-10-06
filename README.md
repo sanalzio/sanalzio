@@ -38,12 +38,22 @@
 <a href="mailto:sanalzio@duck.com" target="_blank">
 <img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt=github style="margin-bottom: 7px;" />
 </a>
-<a href="https://sanalzio.github.io/" target="_blank">
+<a href="https://sanalzio.github.io" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/WebSite-black.svg?&style=for-the-badge&logo=globe&logoColor=darkgreen" alt=github style="margin-bottom: 7px;" />
 </a>
 </div>
 
 <br/>
+
+## Some of my repositories
+![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)
+![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)
+
+![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)
+![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)
+
+![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)
+![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)
 
 ## Github Stats
 
