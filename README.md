@@ -38,7 +38,7 @@
 <a href="mailto:sanalzio@duck.com" target="_blank">
 <img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt=github style="margin-bottom: 7px;" />
 </a>
-<a href="sanalzio.github.io" target="_blank">
+<a href="https://sanalzio.github.io/" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/WebSite-black.svg?&style=for-the-badge&logo=globe&logoColor=darkgreen" alt=github style="margin-bottom: 7px;" />
 </a>
 </div>
