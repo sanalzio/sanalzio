@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Python** 🐍  
   
 
-- 🌱 I’m currently learning **HTML/CSS/JS** 🌐  
+- 🌱 I’m currently learning **HTML/CSS/JS** 🌐 
   
 
 <br/>  
