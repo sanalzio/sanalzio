@@ -36,8 +36,14 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sanalzio" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:sanalzio@duck.com" target="_blank">
+<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="sanalzio.github.io" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/WebSite-black.svg?&style=for-the-badge&logo=globe&logoColor=darkgreen" alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
