@@ -46,14 +46,14 @@
 <br/>
 
 ## Some of my repositories
-![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)
-![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)
+<a href="https://www.github.com/sanalzio/PyDB">![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)</a>
+<a href="https://www.github.com/sanalzio/zio-language">![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)</a>
 
-![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)
-![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)
+<a href="https://www.github.com/sanalzio/TDK-API">![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)</a>
+<a href="https://www.github.com/sanalzio/discord.py-framework">![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)</a>
 
-![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)
-![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)
+<a href="https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc">![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)</a>
+<a href="https://www.github.com/sanalzio/Smd-Compress">![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)</a>
 
 ## Github Stats
 
