@@ -49,10 +49,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalzio&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&layout=compact" align="left" alt="My Top Languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=sanalzio&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&rank_icon=github" align="left" alt="My GitHub Stats" />
 </div>
-<br/>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sanalzio&&style=for-the-badge" align="center" />
 </div>
+<br>
 <div align="center">
             <a href="https://www.buymeacoffee.com/sanalzio" target="_blank" style="display: inline-block;">
                 <img
