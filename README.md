@@ -1,12 +1,17 @@
 ### <div align="center">Hello. I'm Sanalzio. I'm a student freelance developer.</div>
 
+
+<div align="center">
+
 - 🔭 I’m currently working on **Python** 🐍
 
 - 🌱 I’m currently learning **HTML/CSS/JS** 🌐
 
+</div>
+
 <br/>
 
-## My Skill Set
+## <div align="center">My Skill Set</div>
 
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" style="text-decoration: none;" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -29,7 +34,7 @@
 
 <br/>
 
-## Connect with me
+## <div align="center">Connect with me</div>
 
 <div align="center">
 <a href="https://github.com/sanalzio" target="_blank" style="text-decoration: none;">
@@ -45,20 +50,26 @@
 
 <br/>
 
-## Some of my repositories
-<a href="https://www.github.com/sanalzio/PyDB" target="_blank" style="text-decoration: none;">![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)</a>
-<a href="https://www.github.com/sanalzio/zio-language" target="_blank" style="text-decoration: none;">![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)</a>
+## <div align="center">Some of my repositories</div>
+<div align="center">
 
-<a href="https://www.github.com/sanalzio/TDK-API" target="_blank" style="text-decoration: none;">![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)</a>
-<a href="https://www.github.com/sanalzio/discord.py-framework" target="_blank" style="text-decoration: none;">![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)</a>
+[![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)](https://www.github.com/sanalzio/PyDB)
+[![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)](https://www.github.com/sanalzio/zio-language)
 
-<a href="https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc" target="_blank" style="text-decoration: none;">![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)</a>
-<a href="https://www.github.com/sanalzio/Smd-Compress" target="_blank" style="text-decoration: none;">![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)</a>
+[![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)](https://www.github.com/sanalzio/TDK-API)
+[![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)](https://www.github.com/sanalzio/discord.py-framework)
 
-## Github Stats
+[![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc)
+[![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Smd-Compress)
+</div>
+
+## <div align="center">Github Stats</div>
+<div align="center">
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalzio&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&rank_icon=github)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanalzio&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&layout=compact)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalzio&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&rank_icon=github)
+</div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/sanalzio" target="_blank" style="text-decoration: none;" style="display: inline-block;">
