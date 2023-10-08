@@ -29,7 +29,6 @@
 <a href="https://en.wikipedia.org/wiki/Cmd.exe" target="_blank" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Command_prompt_icon_%28windows%29.png" alt="CMD" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/VBScript" target="_blank" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/VBSccript_file_format_icon.png" alt="VBScript" height="40" /></a>
 <a href="https://github.com/" target="_blank" style="text-decoration: none;"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-<a href="https://microbit.org/" target="_blank" style="text-decoration: none;"><img src="mic.svg" alt="MicroBit" height="40" /></a>
 </p>
 
 <br/>
