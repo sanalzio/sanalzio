@@ -1,4 +1,4 @@
-### <div align="center"><font color="red">Hello. I'm Sanalzio. I'm a student freelance developer.</font></div>
+### <font color="red">Hello. I'm Sanalzio. I'm a student freelance developer.</font>
 
 
 <div align="center">
