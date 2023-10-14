@@ -58,7 +58,7 @@
 [![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)](https://www.github.com/sanalzio/discord.py-framework)
 
 [![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc)
-[![Smd-Compress](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Smd-Compress)
+[![Markdown Plus](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Smd-Compress&show_owner=true&theme=dark)](https://www.github.com/sanalzio/markdown-plus)
 </div>
 
 <br/>
