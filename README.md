@@ -1,3 +1,5 @@
+<img src="sanalzio.svg" width=100>
+
 ### <div align="center">Hello. I'm Sanalzio. I'm a student freelance developer.</div>
 
 - 🔭 I’m currently working on **Python** 🐍
