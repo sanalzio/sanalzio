@@ -1,6 +1,6 @@
 <img src="sanalzio.svg" width=200 align="right">
 
-### <div align="center">Hello. I'm Sanalzio. I'm a student freelance developer.</div>
+### <div align="center">👋🏼 Hello. I'm Sanalzio. I'm a student freelance developer.</div>
 
 - 🔭 I’m currently working on **Python** 🐍
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-## <div align="center">Connect with me</div>
+## <div align="center">🔗 Connect with me</div>
 
 <div align="center">
 
@@ -28,14 +28,14 @@
 
 <br/>
 
-## <div align="center">Some of my repositories</div>
+## <div align="center">🗃 Some of my repositories</div>
 <div align="center">
 
-[![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)](https://www.github.com/sanalzio/PyDB)
+[![ZIO+](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-plus&show_owner=true&theme=dark)](https://www.github.com/sanalzio/zio-plus)
 [![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)](https://www.github.com/sanalzio/zio-language)
 
 [![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)](https://www.github.com/sanalzio/TDK-API)
-[![DC-Framework](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=discord.py-framework&show_owner=true&theme=dark)](https://www.github.com/sanalzio/discord.py-framework)
+[![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)](https://www.github.com/sanalzio/PyDB)
 
 [![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc)
 [![Tic Tac Toe Bot](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Tic-Tac-Toe-Bot&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Tic-Tac-Toe-Bot)
@@ -43,7 +43,7 @@
 
 <br/>
 
-## <div align="center">Github Stats</div>
+## <div align="center">📊 Github Stats</div>
 <div align="center">
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalzio&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5\&rank_icon=github)
