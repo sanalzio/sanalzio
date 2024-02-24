@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python** 🐍 and **JavaScript** 📜.
 
-- 🌱 I’m currently learning **HTML/CSS/JS** 🌐.
+- 🌱 I’m currently learning **GO Language** 🦔.
 
 <br/>
 
