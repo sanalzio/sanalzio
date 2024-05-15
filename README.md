@@ -53,3 +53,5 @@
 
 [<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" align="center" />](https://www.buymeacoffee.com/sanalzio)
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" align="center" />
