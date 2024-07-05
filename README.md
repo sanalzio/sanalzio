@@ -1,4 +1,4 @@
-<img src="sanalzio.svg" width=200 align="right">
+<img src="./sanalzio.svg" width=200 align="right">
 
 ### <div align="center">👋🏼 Hello. I'm Sanalzio. I'm a student freelance developer.</div>
 
