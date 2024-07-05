@@ -31,14 +31,8 @@
 ## <div align="center">🗃 Some of my repositories</div>
 <div align="center">
 
-[![ZIO+](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-plus&show_owner=true&theme=dark)](https://www.github.com/sanalzio/zio-plus)
-[![ZioLang](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=zio-language&show_owner=true&theme=dark)](https://www.github.com/sanalzio/zio-language)
-
-[![TDK-API](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=TDK-API&show_owner=true&theme=dark)](https://www.github.com/sanalzio/TDK-API)
-[![PyDB](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=PyDB&show_owner=true&theme=dark)](https://www.github.com/sanalzio/PyDB)
-
-[![MdlEdit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Mdl-Edit-For-Goldsrc&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Mdl-Edit-For-Goldsrc)
-[![Tic Tac Toe Bot](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=Tic-Tac-Toe-Bot&show_owner=true&theme=dark)](https://www.github.com/sanalzio/Tic-Tac-Toe-Bot)
+[![binx](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=binx&show_owner=true&theme=dark)](https://www.github.com/sanalzio/binx)
+[![wikit](https://github-readme-stats.vercel.app/api/pin/?username=sanalzio&repo=wikit&show_owner=true&theme=dark)](https://www.github.com/sanalzio/wikit)
 </div>
 
 <br/>
